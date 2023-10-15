@@ -1,0 +1,96 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: hanken, roboto, archivo;
+}
+.wrapper {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(228, 228, 245);
+}
+.card {
+    width: 350px;
+    border-radius: 15px;
+    background-color: white;
+
+}
+
+.hero-img {
+    width: 100%;
+    object-fit: cover;
+    margin: 0;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+.details {
+    padding: 25px 30px;
+    margin: 0;
+}
+
+h3 {
+    color: rgb(8, 8, 90);
+    text-align: center;
+    margin: 0 0 15px 0;
+    font-weight: 700;
+    letter-spacing: .5px;
+}
+.details > p:first-of-type {
+    color: rgb(136, 136, 136);
+    text-align: center;
+    line-height: 1.4;
+
+}
+.pricing {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgb(241, 241, 241);
+    border-radius: 10px;
+    margin: 20px 0;
+}
+.pricing img {
+    width: 15%;
+
+}
+.plan span {
+    display: block;
+    color: rgb(136, 136, 136);
+    margin-top: 3px;
+    font-weight: 400;
+}
+.plan {
+    font-weight: 700;
+    margin-left: -70px;
+}
+.change {
+text-align: right;
+}
+
+button {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    background-color: rgb(41, 41, 245);
+    border: none;
+    color: white;
+    font-size: 1rem;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: rgba(41, 41, 245, 0.9);
+    transition: all .4s ease;
+}
+ .can-order {
+    text-align: center;
+    color: rgb(136, 136, 136);
+}
