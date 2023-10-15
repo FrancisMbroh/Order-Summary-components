@@ -21,10 +21,11 @@ Users should be able to:
 
 ### Screenshot
 
+![order summary screenshot](https://github.com/FrancisMbroh/Order-Summary-components/assets/147813061/bf4506f8-692a-4bdd-a493-93fb18152ab6)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-mobile-first-ordersummarycomponents-oxZbj1V_vo](https://www.frontendmentor.io/solutions/responsive-mobilefirst-ordersummarycomponents-oxZbj1V_vo)
 - Live Site URL: [https://francismbroh.github.io/Order-Summary-components/](https://francismbroh.github.io/Order-Summary-components/)
 
 ### Built with
